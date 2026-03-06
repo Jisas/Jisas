@@ -1,81 +1,77 @@
-<h1 align="center">¡Hola! Soy Jesús Carrero 👋</h1>
+<div align="center">
 
-<h3 align="center">Unity Developer | C# | OOP & SOLID Enthusiast</h3>
+⚡ Jesús Carrero
 
-<p align="center">
-<a href="https://jesuscarrero.netlify.app" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Visitar_Web-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Portfolio" />
-</a>
-<a href="mailto:jesuscarrerodev@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-jesuscarrerodev%40gmail.com-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-</p>
-
-👨‍💻 Sobre mí
-
-Soy un Desarrollador de Unity orientado a resultados con más de 5 años de experiencia creando sistemas de juego escalables y optimizados tanto para PC como para móviles. Mi enfoque principal es resolver desafíos técnicos complejos a través de una arquitectura de software limpia y eficiente.
-
-🎯 Especialidades: Arquitectura de juegos, Patrones de Diseño de Software (Strategy, State, etc.) y algoritmos matemáticos personalizados.
-
-⚙️ Mi filosofía de código: Fiel creyente de los principios SOLID y la Programación Orientada a Objetos (OOP) para crear código mantenible y escalable.
-
-⭐ Experiencia Freelance: Historial comprobado entregando mecánicas personalizadas e IA con una calificación del 100% (5 estrellas) de satisfacción del cliente.
-
-🌍 Idiomas: Español (Nativo) | Inglés (B2)
-
-🛠️ Habilidades Técnicas
-
-Lenguajes & Motores
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Unity-100000%3Fstyle%3Dfor-the-badge%26logo%3Dunity%26logoColor%3Dwhite" alt="Unity" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
-</p>
-
-Conceptos & Herramientas Avanzadas
-
-Arquitectura & Diseño: Principios SOLID, OOP, Patrones de Diseño, Polimorfismo, Herencia.
-
-Sistemas de Juego: Finite State Machines (FSM), Behavior Trees, Game Physics, Matemáticas y Trigonometría aplicada.
-
-Gráficos & UI: Shader Graph, Sistemas de UI, Custom Editors.
-
-Control de Versiones: Git, GitHub, Plastic SCM.
-
-🚀 Proyectos Destacados
-
-⚔️ Ultimate Controller Tool (Unity Framework | 2023-2024)
-
-Framework modular de Unity diseñado para crear controladores de personajes e IA escalables estilo "Souls" en 3ra persona.
-
-Destacado: Entorno modular compuesto por 11 sistemas integrados, priorizando el rendimiento y la eficiencia del flujo de trabajo para el desarrollo rápido de juegos.
-
-🌌 Space Travel (Mobile Game | 2019-2024)
-
-Shooter espacial 3D infinito (Endless Runner), optimizado para dispositivos móviles de gama baja y media. Lanzado comercialmente.
-
-Destacado: Diseño y programación de toda la arquitectura del juego, flujos UI/UX y bucles de jugabilidad (core gameplay loops) desde cero.
-
-💼 Hitos en el Desarrollo (Trabajo Freelance)
-
-A lo largo de mi carrera freelance, he desarrollado sistemas complejos para múltiples clientes internacionales:
-
-🏗️ Herramientas Modulares (Natuverse): Creación de una herramienta de edición de terreno modular. Implementé el Patrón Strategy para permitir el intercambio dinámico de funcionalidades dentro de una herramienta de "Pincel", mejorando la extensibilidad sin alterar la lógica base.
-
-🧮 Algoritmos Matemáticos (2.5D FPS Doom Style): Programación de un algoritmo de daño dinámico basado en la distancia utilizando una fórmula matemática exponencial inversa: finalDamage = baseDamage * Mathf.Exp(-k * distance).
-
-🧠 Sistemas de IA (War Lab): Desarrollo de una IA de grupo "mente colmena" (hive-mind), escribiendo un wrapper personalizado para anular la lógica base en el asset "Emerald AI".
-
-🎬 Eventos y Delegados (Sword and Magic): Creación de un sistema de reproducción de cinemáticas escalable utilizando estructuras de datos y static delegates para desencadenar eventos, además de programar combos cuerpo a cuerpo y locomoción en 3ra persona.
-
-📊 Estadísticas de GitHub
+Senior Unity Developer | Software Architect | Math Enthusiast
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJisas%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Estadísticas de Jesús" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Unity-2022.3%2B-black%3Fstyle%3Dfor-the-badge%26logo%3Dunity%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-Applied_Mathematics-green%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Open_to_Collaborate-blue%3Fstyle%3Dfor-the-badge" />
+</p>
+
+</div>
+
+🚀 Perfil de Ingeniería
+
+Soy un desarrollador orientado a la arquitectura limpia. Mi enfoque no es solo "hacer que funcione", sino crear sistemas escalables que faciliten la vida al equipo de diseño y producción.
+
+🛠️ Core Stack & Tools
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>🎮 Game Dev</h4>
+<ul>
+<li><b>Unity Engine:</b> 5+ años (PC/Mobile)</li>
+<li><b>AI:</b> FSM, Behavior Trees, NavMesh</li>
+<li><b>VFX:</b> Shader Graph, Particle Systems</li>
+<li><b>UI:</b> UIElements, Canvas Optimization</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h4>🏗️ Architecture</h4>
+<ul>
+<li><b>Principles:</b> SOLID, KISS, DRY</li>
+<li><b>Patterns:</b> Strategy, Observer, State, Factory</li>
+<li><b>Logic:</b> Decoupled Event-Driven Systems</li>
+<li><b>Math:</b> Trigonometría y Algoritmos Custom</li>
+</ul>
+</td>
+</tr>
+</table>
+
+📊 Actividad en GitHub
+
+Aquí puedes ver mi rendimiento y tecnologías más utilizadas de forma dinámica:
+
+<p align="center">
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJisas%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D4F46E5%26icon_color%3D4F46E5" />
+<img width="44%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJisas%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D4F46E5" />
 </p>
 
 <p align="center">
-<i>"Transformando la lógica matemática y los principios de diseño en experiencias interactivas escalables."</i>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DJisas%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26stroke%3D4F46E5%26ring%3D4F46E5%26fire%3D4F46E5" width="100%" />
 </p>
+
+💡 Casos de Éxito (Ingeniería)
+
+"No solo escribo código, resuelvo problemas matemáticos."
+
+Matemáticas de Daño: Programé un sistema de daño exponencial inverso en Unity: finalDamage = baseDamage * Mathf.Exp(-k * distance).
+
+Modularidad: Herramienta de pincel de terreno basada en el patrón Strategy para Natuverse, permitiendo añadir nuevas funciones sin tocar el código base.
+
+Optimización: Space Travel mantenido a 60 FPS estables en dispositivos móviles de gama baja mediante Object Pooling y gestión eficiente de memoria.
+
+📫 Conectemos
+
+<p align="left">
+<a href="https://jesuscarrero.netlify.app" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Visit-4F46E5%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" /></a>
+<a href="mailto:jesuscarrerodev@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Profile-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+</p>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dtokyonight" alt="Quote" />
+</div>
