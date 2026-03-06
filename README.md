@@ -2,8 +2,9 @@
 <img src="https://github.com/Jisas/Jisas/blob/main/Assets/Saludo.gif">
 </p>
 
-<div align="center">
-  <h1>Unity Developer</h1>
+<h1 align="center" >Unity Developer</h1>
+
+<div align="left">
   <p> My first contact with an interactive world was with Pokémon Sapphire on
   the Game Boy Advance. That Christmas gift sparked a curiosity that defined
   my career: how is it possible to encapsulate an entire interactive experience
