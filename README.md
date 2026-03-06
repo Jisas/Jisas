@@ -2,7 +2,7 @@
 <img src="https://github.com/Jisas/Jisas/blob/main/Assets/Saludo.gif">
 </p>
 
-<h1 align="center" >Unity Developer</h1>
+<h1 align="center"> I'm Jesús Carrero - Unity Developer </h1>
 
 <div align="left">
   <p> My first contact with an interactive world was with Pokémon Sapphire on
