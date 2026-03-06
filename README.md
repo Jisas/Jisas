@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Jisas/Jisas/blob/main/Assets/Saludo.gif?raw=true">
+  <img src="https://github.com/Jisas/Jisas/blob/main/Assets/Saludo.gif?raw=true" width="600">
   <h1> ✌️ I'm Jesús Carrero - Unity Developer 
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=unity" width="45" align="center" />
