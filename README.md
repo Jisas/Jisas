@@ -9,9 +9,7 @@
 
 <div align="left">
   <p>My first contact with a videogame :video_game: was with Pokémon Sapphire on the Game Boy Advance. That Christmas gift sparked a curiosity that defined my career: how is it possible to encapsulate an entire interactive experience in this device :open_mouth:?</p>
-  
-  <p>Today, after <strong>6 years of experience in Unity and C#</strong>, I have gone from asking myself that question to answering it through code :computer:. As a Gameplay Engineer with experience in tool development (Tooling), I understand that the magic of a game lies not only in its interactivity, but also in the robustness of the systems that support it. Throughout my career, I have learned that programming is not “crazy stuff,” but rather an exercise in architecture and empathy with the player ✨.</p>
-
+  <p>Today, after <strong>6 years of experience in Unity and C#</strong>, I have gone from asking myself that question to answering it through code :computer:. As a Gameplay Engineer with experience in tool development (Tooling), I understand that the magic of a game lies not only in its interactivity, but also in the robustness of the systems that support it. Throughout my career, I have learned that programming is not “crazy stuff,” but rather an exercise in architecture and empathy with the player :sparkles:.</p>
   <p>My approach seeks not only to create fluid mechanics, but also to optimize the team's workflow through tools that facilitate creative iteration.</p>
 </div>
 
