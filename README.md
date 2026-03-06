@@ -1,3 +1,26 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
+<img src="https://github.com/Jisas/Jisas/blob/main/Assets/Saludo.gif">
 </p>
+
+<h1 align="center">
+  :v: I'm Jesús Carrero - Unity Developer 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity" width="45" align="center" />
+  </a>
+</h1>
+
+<div align="left">
+  <p> My first contact with an videogame :video_game: was with Pokémon Sapphire on
+  the Game Boy Advance. That Christmas gift sparked a curiosity that defined
+  my career: how is it possible to encapsulate an entire interactive experience
+  in this device :hushed:?
+      
+  Today, after <strong>6 years of experience in Unity and C#</strong>, I have gone
+  from asking myself that question to answering it through code :computer:. As a Gameplay Engineer with experience in tool development (Tooling), I understand that
+  the magic of a game lies not only in its interactivity, but also in the robustness of the systems that support it.
+  Throughout my career, I have learned that programming is not “crazy stuff,”
+  but rather an exercise in architecture and empathy with the player :sparkles:. 
+  
+  My approach seeks not only to create fluid mechanics, but also to optimize the
+  team's workflow through tools that facilitate creative iteration.</p>
+</div>
