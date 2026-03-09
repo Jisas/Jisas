@@ -51,3 +51,7 @@
 
 <br clear="both">
 <div width="100%">
+<br><br>
+<div align=center width="1600"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jisas&theme=github_dark" width="100%"/> 
+</div>
