@@ -13,12 +13,9 @@
   <p>My approach seeks not only to create fluid mechanics, but also to optimize the team's workflow through tools that facilitate creative iteration.</p>
 </div>
 
-<hr width="100%">
-
-
+<div width="100%">
 <img src="https://github.com/Jisas/Jisas/blob/main/Assets/Layla.gif">
-
----
+<br><br>
 <div align="right">
   <a href="https://app.daily.dev/jisas">
     <img src="https://api.daily.dev/devcards/v2/gTXC89idt0urT0HerMYDd.png?r=fyc" width="356" alt="Jesus Carrero's Dev Card" align="right" />
@@ -53,4 +50,4 @@
 </div>
 
 <br clear="both">
-<hr width="100%">
+<div width="100%">
