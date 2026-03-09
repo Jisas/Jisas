@@ -16,7 +16,7 @@
 <div align="center">
   <br>
   <a href="https://jesuscarrero.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" width="220" />
+    <img src="https://img.shields.io/badge/Portfolio-a83333?style=for-the-badge&logo=netlify&logoColor=white" width="250" />
   </a>
   <br><br>
 </div>
