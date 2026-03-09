@@ -13,6 +13,14 @@
   <p>My approach seeks not only to create fluid mechanics, but also to optimize the team's workflow through tools that facilitate creative iteration.</p>
 </div>
 
+<div align="center">
+  <br>
+  <a href="https://jesuscarrero.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" width="220" />
+  </a>
+  <br><br>
+</div>
+
 <div width="100%">
 <img src="https://github.com/Jisas/Jisas/blob/main/Assets/Layla.gif">
 <br><br>
