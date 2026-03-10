@@ -22,15 +22,15 @@
 </div>
 
 <div width="100%">
-<img src="https://github.com/Jisas/Jisas/blob/main/Assets/Layla.gif">
-<br><br>
-<div align="right">
-  <a href="https://app.daily.dev/jisas">
-    <img src="https://api.daily.dev/devcards/v2/gTXC89idt0urT0HerMYDd.png?r=fyc" width="356" alt="Jesus Carrero's Dev Card" align="right" />
-  </a>
-</div>
+  <img src="https://github.com/Jisas/Jisas/blob/main/Assets/Layla.gif">
+  <br><br>
+  <div align="right">
+    <a href="https://app.daily.dev/jisas">
+      <img src="https://api.daily.dev/devcards/v2/gTXC89idt0urT0HerMYDd.png?r=fyc" width="356" alt="Jesus Carrero's Dev Card" align="right" />
+    </a>
+  </div>
 
-<div align="left">
+  <div align="left">
   <h3>:globe_with_meridians: Technologies:</h3>
   <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -55,11 +55,17 @@
   <h3>:notes: Music and Composition:</h3>
   <img src="https://img.shields.io/badge/Sibelius-7825e7?style=for-the-badge&logo=sibelius&logoColor=white" />
   <img src="https://img.shields.io/badge/MuseScore-2E68B2?style=for-the-badge&logo=musescore&logoColor=white" />
-</div>
-
-<br clear="both">
-<div width="100%">
-<br><br>
-<div align=center width="1600"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jisas&theme=github_dark" width="100%"/> 
+  </div>
+  <br clear="both">
+  
+  <br><br>
+  <div align=center width="100%"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jisas&theme=github_dark" width="100%"/> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jisas&theme=github_dark" width="49.5%" align=left/> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jisas&theme=github_dark" width="49.5%" align=right/> 
+  </div>
+  <div align=left width="50%"> 
+  </div>
+  <div align=right width="50%"> 
+  </div>  
 </div>
