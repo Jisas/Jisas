@@ -20,13 +20,15 @@
   </a>
   <br><br>
 </div>
+  
+---
 
 <div width="100%">
   <img src="https://github.com/Jisas/Jisas/blob/main/Assets/Layla.gif">
   <br><br>
   <div align="right">
     <a href="https://app.daily.dev/jisas">
-      <img src="https://api.daily.dev/devcards/v2/gTXC89idt0urT0HerMYDd.png?r=fyc" width="356" alt="Jesus Carrero's Dev Card" align="right" />
+      <img src="https://api.daily.dev/devcards/v2/gTXC89idt0urT0HerMYDd.png?r=fyc" width="300" alt="Jesus Carrero's Dev Card" align="right" />
     </a>
   </div>
 
@@ -58,7 +60,8 @@
   </div>
   <br clear="both">
   
-  <br><br>
+---
+
   <div align=center width="100%"> 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jisas&theme=github_dark" width="100%"/> 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jisas&theme=github_dark" width="49.5%" align=left/> 
