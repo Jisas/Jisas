@@ -26,7 +26,7 @@
 <div width="100%">
   <img src="https://github.com/Jisas/Jisas/blob/main/Assets/Layla.gif">
   <br><br>
-  <div align="right">
+  <div>
     <a href="https://app.daily.dev/jisas">
       <img src="https://api.daily.dev/devcards/v2/gTXC89idt0urT0HerMYDd.png?r=fyc" width="300" alt="Jesus Carrero's Dev Card" align="right" />
     </a>
